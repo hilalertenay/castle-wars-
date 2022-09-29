@@ -1,0 +1,99 @@
+body{
+                    margin: 0;
+}
+#arka{
+                    background-color: turquoise;
+                    height: 75vh;
+                    text-align: center;
+                    font-family: Georgia, 'Times New Roman', Times, serif;
+                    font-weight: bolder;
+                    font-size: 3vw;
+                    position: relative;
+}
+#kart_arka{
+                    background-color: greenyellow;
+                    height: 25vh;
+                    font-size: 1.5vw;
+}
+#kale1{
+                    margin-left: 12%;
+                    float: left;
+                    background-color: tomato;
+                    height: 40vh;
+                    width: 15vw;
+                    position: absolute;
+                    bottom: 0;
+}
+#kale2{
+                    margin-left: 72%;
+                    background-color: rgb(71, 172, 255);
+                    height: 40vh;
+                    width: 15vw;
+                    position: absolute;
+                    bottom: 0;
+}
+#kale3{
+                    margin-left: 25%;
+                    background-color: rgb(221, 163, 105);
+                    height: 20vh;
+                    width: 50vw;
+                    position: absolute;
+                    bottom: 15;
+}
+#kart1{
+                    background-color: red;
+                    height:  11vh;
+                    width: 5vw;
+                    position: relative;
+                    float: left;
+                    margin: 14px;
+}
+#kart2{
+                    background-color: rgb(255, 64, 0);
+                    height:  11vh;
+                    width: 5vw;
+                    position: relative;
+                    float: left;
+                    margin: 14px;
+}
+#kart3{
+                    background-color: rgb(238, 255, 0);
+                    height:  11vh;
+                    width: 5vw;
+                    position: relative;
+                    float: left;
+                    margin: 14px;
+}
+#kart4{
+                    background-color: rgb(0, 255, 0);
+                    height:  11vh;
+                    width: 5vw;
+                    position: relative;
+                    float: left;
+                    margin: 14px;
+}
+#kart5{
+                    background-color: rgb(0, 145, 255);
+                    height:  11vh;
+                    width: 5vw;
+                    position: relative;
+                    float: left;
+                    margin: 14px;
+}
+#kart6{
+                    background-color: #000;
+                    height:  11vh;
+                    width: 5vw;
+                    position: relative;
+                    float: left;
+                    margin: 14px;
+}
+#kart7{
+                    background-color: #fff;
+                    height:  11vh;
+                    width: 5vw;
+                    position: relative;
+                    float: left;
+                    margin: 14px;
+}
+
